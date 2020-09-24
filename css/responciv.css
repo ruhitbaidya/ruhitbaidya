@@ -1,0 +1,149 @@
+
+@media screen and (max-width:967px){
+	.field{
+	width:10px;
+	}
+	.form-field{
+	padding:50px 0;
+	padding-right:10px;
+	padding-left:10px;
+	background:#1e1e1e;
+}
+}
+@media screen and (max-width:1024px){
+	.hero-text{
+    padding-top:80px;
+    padding-bottom:200px;
+}
+}
+@media screen and (max-width:1170px){
+	.search{
+    width:250px;
+    height:56px;
+    border-radius:60px 0 0 60px;
+    border:none;
+    padding:0 30px;
+    color:#000000;
+}
+.land-page{
+	margin-top:-100px;
+}
+.search-submit{
+    width:120px;
+    height:56px;
+    background:#ff5252;
+    text-align:center;
+    line-height:3;
+    margin-left:-26px;
+    border-radius:60px;
+    border:none;
+    color:#ffffff;
+    cursor:pointer;
+}
+.hero-text h1{
+    font-size:80px;
+    font-weight:700;
+    text-transform:uppercase;
+    color:#ffffff;
+}
+.overlay2{
+    position:absolute;
+    width:220px;
+    height:45px;
+    background:#000;
+    top:250px;
+    left:200px;
+    opacity:0.5;
+}
+.overlay3{
+    position:absolute;
+    width:45px;
+    height:220px;
+    background:#000;
+    top:-88px;
+    left:300px;
+    opacity:0.5;
+}
+.form-field{
+	padding:50px 0;
+	padding-right:80px;
+	padding-left:60px;
+	background:#1e1e1e;
+}
+
+.field{
+	width:350px;
+	background-color:#1e1e1e;
+	color:#ffffff;
+	border:none;
+	border-bottom:3px solid #000000;
+	padding-top:40px;
+	padding-bottom:10px;
+	font-size:16px;
+}
+.bt-items{
+	width:220px;
+	padding:40px 25px;
+}
+}
+@media screen and (max-width:1000px){
+    .bt-grid-container{
+       width:150px;
+       height:200px;
+       background:#ffffff;
+       margin:auto;
+       padding:20px;
+       margin-top:-50px;
+       text-align:center;
+    }
+    .lt-ev{
+        margin-top:10px;
+    }
+    .bt-grid-containe{
+        width:150px;
+        margin:auto;
+        margin-top:-80px;
+    }
+} 
+@media screen and (max-width:768px) and (min-width:1000){
+    .bt-grid-container{
+        width:150px;
+        height:200px;
+        background:#ffffff;
+        margin:auto;
+        padding:20px;
+        margin-top:-80px;
+        text-align:center;
+     }
+     .bt-grid-containe{
+        width:150px;
+        margin:auto;
+        margin-top:-80px;
+    }
+   
+}
+@media screen and (max-width:767px){
+    footer{
+        text-align:center !important;
+    }
+    .bt-grid-container{
+        position:relative;
+       width:230px;
+       height:280px;
+       background:#ffffff;
+       margin:auto;
+       padding:50px 30px;
+       margin-top:-120px;
+       text-align:center;
+    }
+
+    .footer-social{
+        text-align:center!important;
+        margin-top:20px;
+    }
+    .bt-grid-containe{
+        width:230px;
+        margin:auto;
+        margin-top:-80px;
+    }
+}
