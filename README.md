@@ -30,8 +30,8 @@ I'm a passionate front-end developer with expertise in creating dynamic web appl
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)](https://git.io/streak-stats)
 
 
 ## Pinned Repositories
