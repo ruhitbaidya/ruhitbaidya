@@ -1,4 +1,4 @@
-
+# Hi there I am Ruhit Baidya 👋
 ![Banner Image](https://i.ibb.co/v3CrVRr/2-1.png)
 
 
@@ -30,8 +30,8 @@ I'm a passionate front-end developer with expertise in creating dynamic web appl
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 
 ## Pinned Repositories
