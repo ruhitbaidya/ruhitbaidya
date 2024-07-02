@@ -14,8 +14,9 @@ I'm a passionate front-end developer with expertise in creating dynamic web appl
 - Tailwind.css & Bootstrap
 - Firebase
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+
 
 ## Pinned Repositories
 - [Project 1](https://github.com/your-username/project1)
