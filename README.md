@@ -1,4 +1,3 @@
-# Hi there 👋
 
 ![Banner Image](https://i.ibb.co/v3CrVRr/2-1.png)
 
