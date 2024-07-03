@@ -19,12 +19,4 @@ I'm a passionate front-end developer with expertise in creating dynamic web appl
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)](https://git.io/streak-stats)
-
-
-## Pinned Repositories
-- [Project 1](https://github.com/your-username/project1)
-- [Project 2](https://github.com/your-username/project2)
-- [Project 3](https://github.com/your-username/project3)
 
