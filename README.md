@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/XLrWqP7/finials.gif)](https://ruhitbaidya.vercel.app/)
+[![MasterHead](https://i.ibb.co.com/HFjRssK/Blue-Black-Tech-Programmer-Presentation.gif)](https://ruhitbaidya.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Ruhit Baidya</h1>
 
