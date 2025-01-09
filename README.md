@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/LCjLQwj/Ruhit-Baidya-5.gif)]()
+[![MasterHead](https://i.ibb.co.com/XLrWqP7/finials.gif)]()
 
 <h1 align="center">Hi 👋, I'm Ruhit Baidya</h1>
 <h3 align="center">I'm a passionate front-end developer with expertise in creating dynamic web applications using modern technologies like React, Express, and MongoDB. I love to solve problems and learn new things.</h3>
