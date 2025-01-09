@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1H3TucBF6vz8iSs0Y1_OFZwZPjI_-6gik/view?usp=sharing)]()
+[![MasterHead](https://drive.google.com/file/d/15DWWoPMO1g4GRysc_4T9Peblsm_yKzOD/view?usp=sharing)]()
 
 <h1 align="center">Hi 👋, I'm Ruhit Baidya</h1>
 <h3 align="center">I'm a passionate front-end developer with expertise in creating dynamic web applications using modern technologies like React, Express, and MongoDB. I love to solve problems and learn new things.</h3>
