@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/fVjS2hxD/this-style.gif)](https://ruhitbaidya.vercel.app/)
+[![MasterHead](https://i.ibb.co.com/TDyB50zQ/finial.gif)](https://ruhitbaidya.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Ruhit Baidya</h1>
 
